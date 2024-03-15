@@ -27,10 +27,10 @@ library(RColorBrewer)
 #        2. Funnel plots                                                    (line 1498)   
 #        3. Heatmap of trial contributions                                  (line 1626)
 
-#  Note I uses data: vitd_2024.03.08.csv and vitdpairs_2024.03.08.csv
-#       II uses data vitd_2024.03.08.csv
-#       III uses data vitdpairs_2024.03.08.csv
-#       IV and I use data vitd_2024.03.08.csv
+#  Note I uses vitd_2024.03.08.csv and vitdpairs_2024.03.08.csv
+#       II uses vitd_2024.03.08.csv
+#       III uses vitdpairs_2024.03.08.csv
+#       IV and I use vitd_2024.03.08.csv
 
 ################################################################################
 #   I. Descriptive statistics of included trials   
