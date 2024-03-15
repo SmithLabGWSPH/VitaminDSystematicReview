@@ -10,7 +10,7 @@ The study used two datasets.
 ### R code
 - This repository contains an R script called vitd_2024.03.11.R 
 - The R code contains 4 major parts of analysis
-  o	I. line 35 to 325: Descriptive statistics of included trials (Both vitd_2024.03.08.csv and vitdpairs_2024.03.08.csv were used.)  
-  o	II. line 326 to 1306: Primary analysis, sensitivity analysis, and subgroup analysis (vitd_2024.03.08.csv was used.) 
-  o	III. line 1307 to 1416: Subgroup analysis by intervention dose (vitdpairs_2024.03.08.csv was used for this subgroup analysis.)
-  o	IV. line 1417 to 1698: Figures, including funnel plots, ROB traffic light, and heatmap of trial contributions (vitd_2024.03.08.csv was used.)
+  I. line 35 to 325: Descriptive statistics of included trials (Both vitd_2024.03.08.csv and vitdpairs_2024.03.08.csv were used.)
+  II. line 326 to 1306: Primary analysis, sensitivity analysis, and subgroup analysis (vitd_2024.03.08.csv was used.) 
+  III. line 1307 to 1416: Subgroup analysis by intervention dose (vitdpairs_2024.03.08.csv was used for this subgroup analysis.)
+  IV. line 1417 to 1698: Figures, including funnel plots, ROB traffic light, and heatmap of trial contributions (vitd_2024.03.08.csv was used.)
